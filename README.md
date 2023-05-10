@@ -1,6 +1,8 @@
 # Note Taker
 ![Demo Pic](./demo-pic.png)
 
+[Deployed here](https://journal-jar-note-app.herokuapp.com/)
+
 ## Description
 Basic note taking application that stores your past notes in a json file
   
